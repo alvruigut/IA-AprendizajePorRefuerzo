@@ -1,5 +1,6 @@
 # IA-AprendizajePorRefuerzo
 **AprendizajeRefuerzo** es un proyecto realizada para la asignatura de IA, de Ingeniería del Software en la Universidad de Sevilla. En este trabajo nos centraremos en aplicar el aprendizaje por refuerzo a la robótica móvil, donde un robot debe planificar una ruta en un entorno con obstáculos.
+Incluye informes en latex en estilo de artículo y en formato IEEE.
 
 ## DEFINICIÓN DEL PROBLEMA
 
