@@ -2,6 +2,9 @@
 **AprendizajeRefuerzo** es un proyecto realizada para la asignatura de IA, de Ingeniería del Software en la Universidad de Sevilla. En este trabajo nos centraremos en aplicar el aprendizaje por refuerzo a la robótica móvil, donde un robot debe planificar una ruta en un entorno con obstáculos.
 Incluye informes en latex en estilo de artículo y en formato IEEE.
 
+![Interfaz gráfica del proyecto](images/imagen.png)
+
+
 ## DEFINICIÓN DEL PROBLEMA
 
 Suponemos un mapa con obstáculos representado por una matriz binaria, donde 0 representará un celda libre y un 1 la presencia de un obstáculo. Cada celda de la matriz se corresponderá con una superficie de 0.5 x 0.5 metros.
